@@ -83,3 +83,20 @@ You can preview the built static bundle using:
 ```bash
 npm run preview
 ```
+## Screenshots
+
+### Desktop View 1
+
+![Desktop View 1](./screenshots/desktopview1.png)
+
+### Desktop View 2
+
+![Desktop View 2](./screenshots/desktopview2.png)
+
+### Mobile View 1
+
+![Mobile View 1](./screenshots/mobileview1.png)
+
+### Mobile View 2
+
+![Mobile View 2](./screenshots/mobileview2.png)
